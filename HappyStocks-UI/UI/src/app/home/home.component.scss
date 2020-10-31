@@ -1,0 +1,104 @@
+$bgc-color: #280033;
+$font-family: 'Tahoma';
+
+li {
+    list-style: none;
+    line-height: 1.8rem;
+}
+
+.center-banner {
+    background-color: $bgc-color;
+    color: #fff;
+}
+
+.center-position {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button, 
+.btn-primary:not(:disabled):not(.disabled):active,
+button:hover, 
+button:focus,
+button:active {
+    background-color: $bgc-color;
+}
+
+.doodle-placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.dual-account-section {
+    margin: 90px 20px;
+}
+
+.card {
+    box-shadow: 0 0 9px #dcdcdc;
+}
+
+footer {
+    background-color: $bgc-color;
+    color: #fff;
+}
+
+footer h6 {
+   color: #ffcc00;
+}
+
+footer a:link, a:hover, a:focus, a:visited {
+    color: #fff;
+}
+
+footer p {
+    font-size: 0.8rem;
+}
+.footer-attention {
+    font-size: 6pt !important;
+}
+.quote-section {
+    background: #fff;
+    color: #ff0000;
+    font-size: 14pt;
+    align-items: center;
+    justify-content: center;
+}
+.blockquote p {
+    font-size: 14pt;
+}
+.font-arial-bold {
+    font-family: arial;
+    font-weight: bold;
+}
+.btn.btn-block {
+    font-size: 20pt;
+}
+.link-get-strated {
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 425px) {
+    .bkg-intern {
+        height: 155px;
+    }
+}
+
+.intern-apply {
+    position: absolute;
+    top:58%;
+    left:20%;
+    width:25%;
+}
+
+// .dual-account-section h1::after {
+//     content: "";
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+//     width: 100%;
+//     height: 100%;
+//     background: url("../../assets/images/green-up-arrow.png");
+//     opacity: .7;
+// }
