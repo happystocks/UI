@@ -1,0 +1,159 @@
+﻿{
+    "data": [
+        {
+            "broker_name": "Zerodha",
+            "type": "Discount Broker",
+            "link": "https://zerodha.com/brokerage-calculator#tab-equities"
+        },
+        {
+            "broker_name": "Angel Broking",
+            "type": "Full Service Broker",
+            "link": "https://www.angelbroking.com/exchange-transaction-charges?utm_source=web&utm_medium=organic&utm_campaign=AB-Site"
+        },
+        {
+            "broker_name": "IIFL",
+            "type": "Full Service Broker",
+            "link": "https://www.iifl.com/online-trading-account/broking-account-and-brokerage-details?tab=Variable%20Brokerage%20Plan%20(VBP)"
+        },
+        {
+            "broker_name": "Upstox",
+            "type": "Discount Broker",
+            "link": "https://upstox.com/tools-and-calculators/brokerage-calculator/"
+        },
+        {
+            "broker_name": "ICICI Direct",
+            "type": "Bank Broker",
+            "link": "https://www.icicidirect.com/services/brokerage"
+        },
+        {
+            "broker_name": "Edelweiss",
+            "type": "Full Service Broker",
+            "link": "https://www.edelweiss.in/our-pricing"
+        },
+        {
+            "broker_name": "HDFC Securities",
+            "type": "Bank Broker",
+            "link": "https://www.hdfcsec.com/article/brokeragecharges-3044"
+        },
+        {
+            "broker_name": "5 Paisa",
+            "type": "Discount Broker",
+            "link": "https://www.5paisa.com/brokerage-calculator"
+        },
+        {
+            "broker_name": "Dhani Stocks (Indiabulls)",
+            "type": "Discount Broker",
+            "link": "https://www.dhanistocks.com/calculator/brokerage-calculator"
+        },
+        {
+            "broker_name": "Fyers",
+            "type": "Discount Broker",
+            "link": "https://fyers.in/brokerage-calculator/"
+        },
+        {
+            "broker_name": "Sharekhan",
+            "type": "Full Service Broker",
+            "link": "https://www.sharekhan.com/Common/Brokearge/Brok_struct_char.html"
+        },
+        {
+            "broker_name": "Alice Blue",
+            "type": "Discount Broker",
+            "link": "https://aliceblueonline.com/brokerage-calculator/"
+        },
+        {
+            "broker_name": "SBI Smart",
+            "type": "Bank Broker",
+            "link": "https://www.sbismart.com/charges"
+        },
+        {
+            "broker_name": "Axis Direct",
+            "type": "Bank Broker",
+            "link": "https://simplehai.axisdirect.in/14-sample-data-articles/302-pricing"
+        },
+        {
+            "broker_name": "Aditya Birla ATS",
+            "type": "Full Service Broker",
+            "link": "https://adityatrading.com/brokerage-calculator.aspx"
+        },
+        {
+            "broker_name": "Religare Broking",
+            "type": "Full Service Broker",
+            "link": "http://ex.religareonline.com/faq/account-opening-charges"
+        },
+        {
+            "broker_name": "Karvy Stock Broking",
+            "type": "Full Service Broker",
+            "link": "https://www.karvyonline.com/equity/brokerage-options"
+        },
+        {
+            "broker_name": "Master Trust",
+            "type": "Discount Broker",
+            "link": "https://www.mastertrust.co.in/products-pricing"
+        },
+        {
+            "broker_name": "Trade Smart",
+            "type": "Discount Broker",
+            "link": "https://tradesmartonline.in/brokerage-calculator/"
+        },
+        {
+            "broker_name": "Astha Trade",
+            "type": "Discount Broker",
+            "link": "https://asthatrade.com/site/pricing"
+        },
+        {
+            "broker_name": "Prostocks",
+            "type": "Discount Broker",
+            "link": "https://www.prostocks.com/brokerage-calculator.html"
+        },
+        {
+            "broker_name": "Samco",
+            "type": "Discount Broker",
+            "link": "https://www.samco.in/technology/brokerage-calculator#brokerageCalculator"
+        },
+        {
+            "broker_name": "SAS Online",
+            "type": "Discount Broker",
+            "link": "https://sasonline.in/brokerage-calculator"
+        },
+        {
+            "broker_name": "Trade Plus",
+            "type": "Discount Broker",
+            "link": "https://www.tradeplusonline.com/Brokerage-Calculator.aspx?utm_medium=104690398491_c_g&utm_campaign=9599980035&utm_source=googleads&utm_content=430566749481&utm_term=trade%20plus_e___kwd-298360723104_&gclid=Cj0KCQjwjPaCBhDkARIsAISZN7TDYxe-L3hdLZTmceZNUyn_i459udCgJHa3JfzYDIbPlKseKfjK6aQaArjYEALw_wcB"
+        },
+        {
+            "broker_name": "Trading Bells",
+            "type": "Discount Broker",
+            "link": "https://tradingbells.com/brokerage-calculator"
+        },
+        {
+            "broker_name": "Wisdom Capital",
+            "type": "Discount Broker",
+            "link": "https://wisdomcapital.in/brokerage-calculator/"
+        },
+        {
+            "broker_name": "Stoxkart",
+            "type": "Discount Broker",
+            "link": "https://wisdomcapital.in/brokerage-calculator/"
+        },
+        {
+            "broker_name": "Groww",
+            "type": "Discount Broker",
+            "link": "https://groww.in/calculators/brokerage-calculator/"
+        },
+        {
+            "broker_name": "Kotak Securities",
+            "type": "Bank Broker",
+            "link": "https://www.kotaksecurities.com/ksweb/account-types/demat-account/brokerage-charges"
+        },
+        {
+            "broker_name": "Geojit",
+            "type": "Full Service Broker",
+            "link": "https://geojit.com/about-us/brokerage-fees"
+        },
+        {
+            "broker_name": "Reliance Securities",
+            "type": "Discount Broker",
+            "link": "https://www.reliancesmartmoney.com/stocks/stocks-pricing-plans"
+        }
+    ]
+}
